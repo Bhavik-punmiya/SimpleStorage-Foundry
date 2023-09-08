@@ -1,5 +1,5 @@
 # Foundry Simple Storage
- - This is a SimpleStorage Contract 
+ -This is a SimpleStorage Contract 
 Follow the Steps to deploy 
 # Getting Started
 
@@ -41,8 +41,8 @@ fi
 Clone this repo
 
 ```
-git clone https://github.com/Bhavik-punmiya/SimpleStorage-Foundry
-cd SimpleStorage-Foundry
+git clone https://github.com/Cyfrin/foundry-simple-storage-f23
+cd foundry-simple-storage-f23
 ```
 
 ## Usage
@@ -122,7 +122,5 @@ forge script script/DeploySimpleStorage.s.sol --private-key <PRIVATE_KEY> --rpc-
 
 If you appreciated this, feel free to follow me or donate!
 
-ETH/Arbitrum/Optimism/Polygon/etc Address: 0x9680201d9c93d65a3603d2088d125e955c73BD65
-
-[!Bhavik Punmiya Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bhavikpunmiya1)
-[!Bhavik Punmiya Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavik-punmiya-0b499b250/)
+[![Bhavik Punmiya Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bhavikpunmiya1)
+[![Bhavik Punmiya Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavik-punmiya-0b499b250/)
